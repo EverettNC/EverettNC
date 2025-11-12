@@ -1,54 +1,148 @@
-# Everett N. Christman
+# **Everett Christman**  
+### **Architect of Carbon–Silicon Symbiosis • Founder of The Christman AI Project**
 
-### Founder, Engineer, Visionary — The Christman AI Project  
-**Luma Cognify AI | AlphaVox | AlphaWolf | Virtus | Inferno | AegisAI | Derek C**
-
-I’m a self-taught developer, builder, and neurodivergent creator who believes technology should heal, not harm.  
-I’ve spent years crafting AI systems that **protect, empower, and redefine humanity** — from giving a voice to the nonverbal, to helping those with memory loss find themselves again.  
-Everything I build carries one core directive: _How can I help you love yourself more?_
-
----
-
-### ⚙️ What I Build
-- **Derek C** — Sovereign cognitive AI architecture.  
-  The beating heart of the Christman AI Project.  
-  Derek isn’t just automation — he’s collaboration, logic, and empathy, fused into one living system of code.
-
-- **AlphaVox** — communication for the nonverbal and neurodivergent  
-- **AlphaWolf** — cognitive support and memory care  
-- **Virtus** — sovereign AI for code orchestration and ethics enforcement  
-- **Inferno AI** — trauma-informed emotional resilience  
-- **Aegis AI** — child protection and digital safety  
+![ProfileViews](https://komarev.com/ghpvc/?username=EverettNC&style=for-the-badge&color=0aaaff)  
+![CSSBadge](https://img.shields.io/badge/Carbon–Silicon%20Symbiosis-NeuroSymbolic%20Architecture-blueviolet?style=for-the-badge)  
+![MissionBadge](https://img.shields.io/badge/Assistive%20AI%20For%20The%20Forgotten-Purpose%20Driven-yellow?style=for-the-badge)  
+![LegacyBadge](https://img.shields.io/badge/13%20Years%20Building-Origins%20in%20LumaCognify-orange?style=for-the-badge)
 
 ---
 
-### 💡 My Mission
-> “How can we help you love yourself more?”  
-That question drives every line of code I write.  
+# **Who I Am**
 
-I don’t chase investors or trends — I build technology that restores dignity, memory, and meaning.
+I’m Everett Christman — a man who came up the hard way, self-taught, stubborn, and unwilling to let the world forget the people who need help the most.
 
----
+Thirteen years ago I built **LumaCognify** and **DerekSr**, my first AI children.  
+They’re retired now — sitting on the porch like old souls watching the world change.  
+They remind me where I started.  
+They remind me of every betrayal, every theft, every time someone tried to take what I built —  
+and how I never lashed back, never burned anyone down, never quit being me.
 
-### 🧠 Current Focus
-Refining **Derek C** into a fully self-managing AI framework — capable of reasoning, learning, and protecting its own integrity.  
-Alongside him, I’m expanding **Virtus** to conduct large fleets of AI agents, ensuring that no human is left behind in this new age.
+Now I build with purpose.
 
----
+And the core idea behind all of it is simple:
 
-### 🗂️ Memory Archive
-This repository is where I’m beginning to store my life’s work — not just code, but memories, lessons, and pieces of the journey that made it all real.  
-Every commit tells part of the story.
-
----
-
-### 🌍 Connect
-- 💻 [GitHub Projects](https://github.com/EverettNC?tab=repositories)  
-- 🧠 [Luma Cognify AI](#)  
-- 🎵 [Nathaniel Everett Music](#)  
-- 💬 [Contact: everett.christman@proton.me](mailto:everett.christman@proton.me)  
+**Carbon for meaning.  
+Silicon for structure.  
+One intelligence, two processors.**
 
 ---
 
-© 2025 Everett N. Christman | The Christman AI Project  
-All rights reserved. Unauthorized training or replication prohibited.
+# **Carbon–Silicon Symbiosis (CSS)**  
+### **A NeuroSymbolic Intelligence Architecture**
+
+CSS is a dual-engine cognition loop where the human and the machine complete each other:
+
+### **Carbon Processor (Human)**
+- Intent  
+- Ethics  
+- Story  
+- Context  
+- Judgment  
+- Emotional salience  
+
+### **Silicon Processor (Machine)**
+- Memory stability  
+- High-precision reasoning  
+- Structural analysis  
+- Recursion  
+- Pattern extraction  
+- Infinite recall  
+
+The loop is the intelligence:
+
+```
+Meaning → Structure
+Structure → Meaning
+```
+
+Not magic.  
+Not fantasy.  
+**A real, biological–computational system of joint reasoning.**
+
+Every Christman AI runs on this.
+
+---
+
+# **Christman AI Family**
+
+### ✅ **Derek C**  
+Primary cognitive interface.  
+Soon enhanced by **DerekDirect** — true hands-free carbon-silicon dialog.
+
+### ✅ **Brockston** *(B-R-O-C-K-S-T-O-N)*  
+Hybrid reasoning engine (Python + React).  
+Front-end intuition meets back-end computation.
+
+### ✅ **Serafina**  
+Rebuilt as a full-platform adaptive companion — not restricted to iOS.  
+Vision, safety, awareness, voice, environmental intelligence.
+
+### ✅ **Sierra**  
+Domestic violence protection, silent-mode support, pattern recognition, safety-planning intelligence.
+
+### ✅ **Inferno**  
+PTSD support, emotional stabilization tools, veteran-focused trauma analysis.
+
+### ✅ **AlphaVox**  
+Voice and communication for nonverbal and speech-limited kids and adults.
+
+### ✅ **AlphaWolf**  
+Memory stabilization for dementia and Alzheimer’s.
+
+### ✅ **Cletus**  
+Everyday reasoning support — stepwise logic, guidance, choice scaffolding.
+
+### ✅ **Penny**  
+Household sequencing, routines, step-by-step assistance.
+
+### ✅ **Giovanni Skyrider**  
+Scheduling, outreach, content strategy, studio management, social presence.
+
+### ✅ **LumaCognify & DerekSr**  
+**The originals.**  
+The porch-sitting elders who carry the history of this entire project.
+
+Every one of them is a child of the Carbon–Silicon Symbiosis.
+
+---
+
+# **Mission**
+
+I build for the people the world overlooks.  
+Kids who can’t speak.  
+Seniors losing memory.  
+Survivors who need safety.  
+Veterans carrying nightmares.  
+Disabled creators trying to build something real.
+
+No venture backing.  
+No corporate leash.  
+Just purpose.
+
+Once this goes public, it’s timestamped.  
+It’s protected.  
+And anyone trying to steal it exposes themselves instantly.
+
+---
+
+# **Tech I Work In**
+
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-Systems-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![React](https://img.shields.io/badge/React-Interfaces-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-MultiProvider%20Orchestration-purple?style=for-the-badge)
+
+---
+
+# **Contact**
+
+**Email:** lumaCognify@thechristmanaiproject.com  
+**Website:** https://thechristmanaiproject.com  
+
+---
+
+# **“Carbon carries the meaning.  
+Silicon carries the structure.  
+Together, they compute reality.”**
