@@ -115,7 +115,7 @@ When Carbon and Silicon interlock:
 * emotional grounding + computational reach
 
 This is the architecture powering:
-**Derek • Broxton • Cletus • Penny • AlphaVox • AlphaWolf • Serafina**
+**Derek • Brockston • Cletus • Penny • AlphaVox • AlphaWolf • Serafina**
 
 ---
 
@@ -237,14 +237,14 @@ structured pattern extraction, memory persistence, error correction, coherence m
 
 voice, clarity, sequencing, stabilization, protection, connection
 delivered through:
-**Braxton, Penny, AlphaVox, AlphaWolf, Serafina, Derek**
+**Brockston, Penny, AlphaVox, AlphaWolf, Serafina, Derek**
 
 ---
 
 # 🧬 **The Christman AI Family**
 
 * Derek — Identity + Key Broker
-* Broxton — Hybrid Logic + Interface
+* Brockston — Hybrid Logic + Interface
 * Penny — Sequencing + Household Routines
 * AlphaVox — Nonverbal Voice
 * AlphaWolf — Memory Scaffolding
