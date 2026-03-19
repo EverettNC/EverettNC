@@ -13,7 +13,7 @@
 ![Years](https://img.shields.io/badge/13%20Years-LumaCognify%20→%20Derek-FF6A00?style=for-the-badge)
 ![Stack](https://img.shields.io/badge/Stack-Python%20•%20Swift%20•%20React%20•%20FastAPI-09F7FF?style=for-the-badge)
 
-<img src="banner.svg" width="100%" />
+
 
 ---
 
