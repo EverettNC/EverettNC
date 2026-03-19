@@ -7,7 +7,7 @@
 [![HIPAA Compliant](https://img.shields.io/badge/Security-H.N.D.L._Post--Quantum-success.svg)]()
 [![License](https://img.shields.io/badge/License-Dignity_Clause_v1.0-red.svg)]()
 
-### *Protect the Human. Reality over Vibes.*
+### *Protect the Symbiosis. Reality over Vibes.*
 
 </div>
 
